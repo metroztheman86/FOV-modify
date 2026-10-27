@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/QuestPackageManager/QPM.Package/refs/heads/main/mod.schema.json",
+  "_QPVersion": "0.1.1",
+  "name": "FOV Modifier",
+  "id": "FOVModifier",
+  "author": "You",
+  "version": "0.1.0",
+  "packageId": "com.beatgames.beatsaber",
+  "packageVersion": "1.40.8_7379",
+  "description": "Overrides camera field of view, with an in-game settings menu.",
+  "dependencies": [],
+  "modFiles": [],
+  "libraryFiles": [],
+  "fileCopies": [],
+  "copyExtensions": []
+}
